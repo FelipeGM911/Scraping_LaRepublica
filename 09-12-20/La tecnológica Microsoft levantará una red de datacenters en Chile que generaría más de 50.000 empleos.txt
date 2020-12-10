@@ -1,0 +1,9 @@
+La tecnológica Microsoft levantará una red de datacenters en Chile que generaría más de 50.000 empleos
+
+Se trata de la inversión más grande de la empresa en Chile, la cual representará ganancias por US$11.300 millones 
+
+Desde La Moneda y en presencia del presidente de la República, Sebastián Piñera, altos ejecutivos de Microsoft anunciaron este miércoles el lanzamiento del proyecto "Transforma Chile #ReactivaciónDigital", la inversión más significativa de la compañía en sus 28 años de historia en el país, lo que implica la construcción de una red de datacenters con la cual se proyecta la creación de 51 mil puestos de trabajo directos e indirectos, de los cuales 9 mil serían especializados en TI.
+"No estamos construyendo un datacenter sólo para impulsar nuestro propio negocio, sino para proporcionar una inversión crítica en la infraestructura de Chile que servirá a todas las personas que viven aquí y a los clientes que operan aquí", dijo Brad Smith, presidente de la tecnológica.
+El ejecutivo añadió que "nuestros datacenters cerca de Santiago harán que la computación sea más accesible a velocidades aún más rápidas, proporcionando una plataforma nueva y segura para cada parte de la economía y apoyando la ambiciosa agenda digital del Presidente Piñera y Chile".
+Según datos de IDC, Microsoft, sus socios y clientes con este proyecto generarán movimientos por más de US$ 11.300 millones en nuevos ingresos y agregarían unos 51.000 nuevos puestos de trabajo a la economía chilena en los próximos cuatro años.
+El gigante tecnológico destacó que la región de datacenters chilena se unirá a la infraestructura global en la nube de Microsoft, con la que buscan generar una ventaja competitiva en todas las industrias clave del país; como la energía, agricultura, finanzas, salud, viajes y manufacturera, al proporcionar un acceso más rápido a los servicios en la nube, así como la capacidad de almacenar datos dentro del país.
